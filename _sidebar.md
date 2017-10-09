@@ -1,5 +1,5 @@
 - 入门
-
-  - [快速开始](guide)
-  - [安装集成](quickstart)
+  -  [介绍](readme)
+- 发布  
+  -  [部署](deploy)
 
